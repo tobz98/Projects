@@ -1,0 +1,16 @@
+# ninja log v5
+6	1978	7393330445416905	CMakeFiles/ProjectRedo.dir/Board.cpp.obj	d3e11e2b7b271340
+23	1098	7387792227487284	CMakeFiles/ProjectRedo.dir/Evaluation.cpp.obj	28c132bad6c0f6ba
+1979	2277	7393330448380157	ProjectRedo.exe	64fcc515a180508a
+8	624	7391476847159973	CMakeFiles/ProjectRedo.dir/Bitboard.cpp.obj	d3ea4a5f8f7c8a17
+3	786	7448449875703082	build.ninja	fb2a27fb680fc443
+3	2787	7393323741586423	CMakeFiles/ProjectRedo.dir/main.cpp.obj	932e2b478215bcbb
+15	627	7391476847194737	CMakeFiles/ProjectRedo.dir/Move.cpp.obj	48335ce475c15538
+20	652	7391476847439250	CMakeFiles/ProjectRedo.dir/AttackMasks.cpp.obj	a2a2a6e0d71b2ebb
+41	913	7448449986531475	CMakeFiles/ProjectRedo.dir/Move.cpp.obj	1ddd108446508818
+47	922	7448449986840520	CMakeFiles/ProjectRedo.dir/AttackMasks.cpp.obj	d04e1add88391d4e
+34	947	7448449987051907	CMakeFiles/ProjectRedo.dir/Bitboard.cpp.obj	a98f11edd7c74024
+58	959	7448449987262519	CMakeFiles/ProjectRedo.dir/Evaluation.cpp.obj	92a6b8d82a9ad146
+51	2426	7448450001952239	CMakeFiles/ProjectRedo.dir/Board.cpp.obj	2d34aa3c0aa62cf
+28	2589	7448450003568325	CMakeFiles/ProjectRedo.dir/main.cpp.obj	967372e67590b1a7
+2589	2962	7448450007282489	ProjectRedo.exe	64fcc515a180508a
